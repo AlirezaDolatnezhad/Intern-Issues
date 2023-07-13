@@ -9,4 +9,5 @@ about: This issue template is based on frontend phase 06 react 01
 -   [ ] Learn
   -   [ ] How to react works
   -   [ ] Installation
-- [ ] Project -->
+- [ ] Project 
+-->
