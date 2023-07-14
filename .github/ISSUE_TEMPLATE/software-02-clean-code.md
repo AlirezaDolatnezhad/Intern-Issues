@@ -17,7 +17,7 @@ about: This issue template is based on frontend phase 01 document
             1. `[ANSWER 02]`
             1. `[ANSWER 03]`
     -   [ ] Visit the mentioned links in the doc and read the article individually
-    -   [ ] Think about the questions and discuss your answers with your teammate
+    -   [ ] Now that you have read the articles, answer the questions:
         -   [ ] Write your answers to question 1:
             1. `[ANSWER 01]`
             1. `[ANSWER 02]`
@@ -42,18 +42,24 @@ about: This issue template is based on frontend phase 01 document
 
 -   [ ] Read about SOLID principles in software engineering:
 
-    -   [ ] Single Responsibility
-    -   [ ] Open-Close
-    -   [ ] Liskov Substitution
-    -   [ ] Interface Segregation
-    -   [ ] Dependency Inversion
+    -   [ ] **S**ingle Responsibility
+    -   [ ] **O**pen-Close
+    -   [ ] **L**iskov Substitution
+    -   [ ] **I**nterface Segregation
+    -   [ ] **D**ependency Inversion
 
 -   [ ] Refactoring Techniques:
 
-    -   [ ] Take a look at Refactoring Techniques
+    -   [ ] Take a biref look at Refactoring Techniques
     -   [ ] Fix code smells you mentioned for your search project in a new branch
-    -   [ ] Make a PR (Pull Request) from new branch to master but do not merge it
 
+
+-   [ ] Project: dirty search engine!
+    -   [ ] Create a new branch to clean previous project
+    -   [ ] Make changes to your project:
+        -   [ ] Considering SOLID principles for a better program structure
+        -   [ ] Fix code smells you mentioned previously
+    -   [ ] Make a PR (Pull Request) from your new branch to master, but **DO NOT MERGE IT!**
         `[LINK TO YOUR PR]`
 
 -   [ ] Code Review:
@@ -70,9 +76,7 @@ about: This issue template is based on frontend phase 01 document
 
         - [ ] After fixing all comments ask reviewers to approve your PR
 
-        - [ ] When the other team approved, ask your junior mentor to review your PR
-        
-        - [ ] When you junior mentor approved, ask your senior mentor to review your PR
+        - [ ] When the other team approved, ask your mentors to review your PR
 
         - [ ] When they approved, you can merge your PR to master branch
 
