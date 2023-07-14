@@ -50,3 +50,20 @@ about: This issue template is based on frontend phase 01 sandbox
     - [ ] branches
         - [ ] create a new branch
         - [ ] `checkout`
+
+
+## Installations
+For a faster onboarding, it is recommended to install necessary softwares.
+
+**Software Engineering:**
+* Intelij IDE
+* Java requirements (recommended version: 17) - run a hello world application to check everything is ok!
+
+**Frontend:**
+* Webstorme
+* npm library
+
+
+## Final Step
+
+- [ ] Close this issue
