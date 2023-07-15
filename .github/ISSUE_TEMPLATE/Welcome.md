@@ -8,7 +8,7 @@ about: This issue template is based on frontend phase 01 sandbox
 ## Introduction
 
 ### General
-- [ ] Attend the eftetahie
+- [ ] Attend the opening
 - [ ] Read the bootcamp regulation documents
 
 ### Let's Connect
