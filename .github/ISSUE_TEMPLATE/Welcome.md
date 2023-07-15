@@ -61,7 +61,7 @@ For a faster onboarding, it is recommended to install necessary softwares.
 
 **Frontend:**
 * Webstorme
-* npm library
+* chrome
 
 
 ## Final Step
