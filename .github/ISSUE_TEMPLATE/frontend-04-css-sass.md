@@ -29,3 +29,4 @@ about: This issue template is based on frontend phase 04 css-sass
         -  [ ] Variables
         -  [ ] Mixins
 -   [ ] Project: Improve landing with sass
+-   [ ] Project: Create vitrin with sass
