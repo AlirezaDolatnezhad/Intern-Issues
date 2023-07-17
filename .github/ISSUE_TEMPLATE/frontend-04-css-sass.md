@@ -28,5 +28,6 @@ about: This issue template is based on frontend phase 04 css-sass
         -  [ ] Nested Selectors
         -  [ ] Variables
         -  [ ] Mixins
--   [ ] Project: Improve landing with sass
 -   [ ] Project: Create vitrin with sass
+-   [ ] Project: Create landing creator with sass
+-   [ ] code review
