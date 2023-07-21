@@ -50,11 +50,11 @@ about: This issue template is based on frontend phase 01 document
 
 - [ ] Lombok
     - [ ] Read docs
-        - [] @Setter
-        - [] @Getter
-        - [] @Builder
-        - [] @Constructors ...
-        - [] @ToString
+        - [ ] @Setter
+        - [ ] @Getter
+        - [ ] @Builder
+        - [ ] @Constructors ...
+        - [ ] @ToString
 
 - [ ] Project
     - [ ] Redesign the project
