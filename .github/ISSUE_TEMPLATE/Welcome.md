@@ -8,7 +8,7 @@ about: This issue template is based on frontend phase 01 sandbox
 ## Introduction
 
 ### General
-- [ ] Attend the eftetahie
+- [ ] Attend the opening
 - [ ] Read the bootcamp regulation documents
 
 ### Let's Connect
@@ -61,7 +61,7 @@ For a faster onboarding, it is recommended to install necessary softwares.
 
 **Frontend:**
 * Webstorme
-* npm library
+* chrome
 
 
 ## Final Step
