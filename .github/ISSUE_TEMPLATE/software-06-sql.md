@@ -23,6 +23,6 @@ about: This issue template is based on frontend phase 01 document
     -   [ ] Join
     -   [ ] Aggregate Functions
 
--   [ ] Project
+## Project
     -   [ ] write commands for each functionality
     -   [ ] Bounus: Seen message
