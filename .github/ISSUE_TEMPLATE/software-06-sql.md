@@ -24,5 +24,6 @@ about: This issue template is based on frontend phase 01 document
     -   [ ] Aggregate Functions
 
 ## Project
-    -   [ ] write commands for each functionality
-    -   [ ] Bounus: Seen message
+
+-   [ ] write commands for each functionality
+-   [ ] Bounus: Seen message
